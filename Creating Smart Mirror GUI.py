@@ -91,7 +91,7 @@ def time_format_for_location(utc_with_tz):
 # Gathering weather data
 def showWeather():
     #API
-    api_key = "80a1c566fa9450d97987f963171006ae" 
+    api_key = "" #insert API key
  
     #City Name
     global city_name
